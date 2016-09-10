@@ -2,8 +2,8 @@
 
 The cards are:
 
-1.Ace = A
-2.King = K
+* Ace = A
+* King = K
 
 *Queen = Q
 *10
