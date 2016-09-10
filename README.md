@@ -15,3 +15,9 @@ The cards are:
 * 4
 * 3
 * 2
+
+Suits
+* Diamond
+* Hearts
+* Clubs
+* Spades
