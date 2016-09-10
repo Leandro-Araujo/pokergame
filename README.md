@@ -2,7 +2,7 @@
 
 The cards are:
 
-* Ace = A
+* Ace
 * King = K
 * Queen = Q
 * Jack = J
