@@ -3,7 +3,9 @@
 The cards are:
 
 *Ace = A
+
 *King = K
+
 *Queen = Q
 *10
 *9
